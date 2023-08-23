@@ -9,4 +9,4 @@ build :
 g++ -std=c++11 -o plot_data plot_data.cpp -lboost_iostreams -lboost_system
 
 execute :
-./plot_data "nameOfCSV".csv 
+./plot_data "nameOfCSV".csv "task or joint"

@@ -2,7 +2,7 @@
 plot each joint angle to compare with desired joint angles
 
 desired .csv contents should include desired q angle and q angle 
-in qd1,q1,qd2,q2,qd3,q3,qd4,q4,qd5,q5,qd6,q6,qd7,q7 order. 
+in qd1,q1,qd2,q2,qd3,q3,qd4,q4,qd5,q5,qd6,q6,qd7,q7, xd,x,yd,y,zd,z,rolld,roll,pitchd,pitch,yawd,yaw order. 
 
 
 build : 
